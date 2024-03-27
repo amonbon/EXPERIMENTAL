@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Segundo cambio pero este mueve abajo la priemra linea anterior. DESDE FEATURINAS modifico esto también jajajaaj!!!
-=======
-Segundo cambio pero este mueve abajo la priemra linea anterior. Es más, voy a cambiar esta también DESDE MAIN a ver qué pasa!!
->>>>>>> 66a1241 (Cambio improtante para master/main)
 
 este es mi primer cambio y estoy cambiando una linea existente
